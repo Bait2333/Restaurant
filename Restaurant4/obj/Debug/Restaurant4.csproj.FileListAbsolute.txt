@@ -1,0 +1,34 @@
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\bin\Debug\Restaurant4.exe.config
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\bin\Debug\Restaurant4.exe
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\bin\Debug\Restaurant4.pdb
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.csproj.AssemblyReference.cache
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.csproj.SuggestedBindingRedirects.cache
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.Form1.resources
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.Form2.resources
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.Form3.resources
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.Properties.Resources.resources
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.csproj.GenerateResource.cache
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.csproj.CoreCompileInputs.cache
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.exe
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.pdb
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.UserControl1.resources
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.UserControl2.resources
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.UserControl3.resources
+C:\Users\namay\OneDrive\Desktop\Bob Marley\Restaurant4\obj\Debug\Restaurant4.UserControl4.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\bin\Debug\Restaurant4.exe.config
+C:\Users\namay\OneDrive\Desktop\Restaurant4\bin\Debug\Restaurant4.exe
+C:\Users\namay\OneDrive\Desktop\Restaurant4\bin\Debug\Restaurant4.pdb
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.csproj.AssemblyReference.cache
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.csproj.SuggestedBindingRedirects.cache
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.Form1.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.Form2.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.Form3.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.Properties.Resources.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.UserControl1.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.UserControl2.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.UserControl3.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.UserControl4.resources
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.csproj.GenerateResource.cache
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.csproj.CoreCompileInputs.cache
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.exe
+C:\Users\namay\OneDrive\Desktop\Restaurant4\obj\Debug\Restaurant4.pdb
